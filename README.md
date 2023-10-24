@@ -14,6 +14,7 @@ The main regex pattern featured in this tutorial is `/your-regex-pattern-here/`.
 - [Groups](#groups)
 - [Special Characters](#special-characters)
 - [Author](#author)
+- [License](#license)
 
 ## Regex Pattern
 In this section, we will provide a comprehensive explanation of the featured regex pattern and how it works.
@@ -43,6 +44,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-Feel free to replace `[your-regex-pattern-here]` with your actual regex pattern. Additionally, in each of the sections, you should provide detailed explanations and examples of the concepts you're explaining in your regex tutorial.
-
----
+Feel free to replace `[your-regex-pattern-here]` with your actual regex pattern and `[Your Name]` with your name or the name of the actual author of the tutorial. Additionally, you should include a `LICENSE` file in your project directory that contains the full text of the MIT License. This is common practice to clarify the licensing terms of your project.
